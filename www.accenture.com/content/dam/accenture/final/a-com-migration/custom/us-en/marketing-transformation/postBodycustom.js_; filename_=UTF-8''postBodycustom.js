@@ -1,0 +1,1 @@
+var ComponentRegistry = {ContactModule:1}
