@@ -1,5 +1,7 @@
 # Accenture US Home Page Replica
 
+https://dibyesh-mishra-replica-of-accenture-us-home-page-k72r.vercel.app/www.accenture.com/us-en.html
+
 
 
 This project is a replica of the Accenture US home page built using Next.js. It aims to showcase the power and flexibility of Next.js for building modern, fast, and dynamic web applications.
