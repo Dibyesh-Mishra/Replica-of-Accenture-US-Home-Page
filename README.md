@@ -56,3 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - The Next.js team for providing an excellent framework for building React applications.
 
 Feel free to explore, learn, and contribute to make this replica even more impressive!
+
+## Deploy on Vercel
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+Check out our Next.js deployment documentation for more details.
